@@ -1,994 +1,967 @@
-[
- {
-   "Statsråd": "Stefan Löfven",
-   "Roll": "Statsminister",
-   "Innehav": "Swedbank Robur Bas 50",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 738371
- },
- {
-   "Statsråd": "Stefan Löfven",
-   "Roll": "Statsminister",
-   "Innehav": "Swedbank Robur Allemansfond Komplett",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 688959
- },
- {
-   "Statsråd": "Stefan Löfven",
-   "Roll": "Statsminister",
-   "Innehav": "Swedbank Robur Global Impact",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 471877
- },
- {
-   "Statsråd": "Stefan Löfven",
-   "Roll": "Statsminister",
-   "Innehav": "Swedbank Robur Småbolag Sverige",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 74736
- },
- {
-   "Statsråd": "Stefan Löfven",
-   "Roll": "Statsminister",
-   "Innehav": "Swedbank Robur Småbolag Norden",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 68612
- },
- {
-   "Statsråd": "Stefan Löfven",
-   "Roll": "Statsminister",
-   "Innehav": "Swedbank Robur Asienfond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 59067
- },
- {
-   "Statsråd": "Stefan Löfven",
-   "Roll": "Statsminister",
-   "Innehav": "Swedbank Robur Global Emerging Markets",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 30721
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Multi A 50 A1 SEK",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 1676517
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB USA Ind Cri A1 SEK",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 870247
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Sverige Tema",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 594459
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Europa Småbolag A1 SEK",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 374163
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Svenska Småbolag A1 SEK",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 371288
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Sve 100 Index Cri A1S",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 300000
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "XACT BULL2",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 106020
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Nordiska Småbolag",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 78748
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Kina Tema A1 SEK",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 72421
- },
- {
-   "Statsråd": "Hans Dahlgren",
-   "Roll": "EU-minister",
-   "Innehav": "SHB Hållbar Energi",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 11101
- },
- {
-   "Statsråd": "Morgan Johansson",
-   "Roll": " Justitieminister",
-   "Innehav": "Swedbank Robur Fastighet",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 288450
- },
- {
-   "Statsråd": "Morgan Johansson",
-   "Roll": "Justitieminister",
-   "Innehav": "Swedbank Robur Småbolag Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 286266
- },
- {
-   "Statsråd": "Morgan Johansson",
-   "Roll": "Justitieminister",
-   "Innehav": "Swedbank Robur Kinafond A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 206008
- },
- {
-   "Statsråd": "Morgan Johansson",
-   "Roll": "Justitieminister",
-   "Innehav": "Swedbank Robur Realräntefond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 118760
- },
- {
-   "Statsråd": "Morgan Johansson",
-   "Roll": "Justitieminister",
-   "Innehav": "Swedbank Robur Räntefond Kort",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 105309
- },
- {
-   "Statsråd": "Morgan Johansson",
-   "Roll": "Justitieminister",
-   "Innehav": "Swedbank Robur Ränta Kort Plus",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 71778
- },
- {
-   "Statsråd": "Mikael Damberg",
-   "Roll": "Inrikesminister",
-   "Innehav": "SEB Hållbarhetsfond Världen",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 140757
- },
- {
-   "Statsråd": "Mikael Damberg",
-   "Roll": "Inrikesminister",
-   "Innehav": "Swedbank Robur Kapitalinvest",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 110773
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Nordenfond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 317559
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Aktiesparfond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 271824
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Nordenfond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 205624
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Hållbarhetsfond Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 114399
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Hållbar Europa Indexnära Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 98094
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Hållbarhetsfond Sverige Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 90393
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Korträntefond Sek Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 49264
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Dynamisk Aktiefond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 39824
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Hållbarhetsfond Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 26858
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "Goldman Sachs Emerging Market Equity",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 23280
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Företagsobligationsfond Hållbar A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 20992
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Östeuropafond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 13422
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Sustainable Global Exp",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 10682
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Sustainable Europe Exp",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 6569
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Östeuropafond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 3428
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB Asset Selection C SEK Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 2796
- },
- {
-   "Statsråd": "Ann Linde",
-   "Roll": "Utrikesminister",
-   "Innehav": "SEB US All Cap Usd Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 721
- },
- {
-   "Statsråd": "Per Olsson Fridh",
-   "Roll": "Biståndsminister",
-   "Innehav": "Skandia Sverige Hållbar",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 93581
- },
- {
-   "Statsråd": "Per Olsson Fridh",
-   "Roll": "Biståndsminister",
-   "Innehav": "Skandia Idéer för livet",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 50735
- },
- {
-   "Statsråd": "Per Olsson Fridh",
-   "Roll": "Biståndsminister",
-   "Innehav": "Handelsbanken Hållbar Energi",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 47063
- },
- {
-   "Statsråd": "Per Olsson Fridh",
-   "Roll": "Biståndsminister",
-   "Innehav": "Skandia Världsnaturfonden",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 156
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Hållbar Sverige Indexnära",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 3354380
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Europafond Småbolag",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 3062305
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Sverigefond Småbolag",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 2771385
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SPP Aktiefond Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 2619490
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Usa Indexfond C Usd – Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 2365049
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SPP Aktiefond USA",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 2128829
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SPP Aktiefond Europa",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 1189452
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Sverigefond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 809038
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "AP7 Aktiefond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 668869
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SPP Aktiefond Sverige",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 739133
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "Lannebo Småbolag",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 568842
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Global Indexnära D Usd Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 218505
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Fund 3 SEB Sustainable",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 198858
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Usa Indexnära Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 145654
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB USA Indexnära C USD Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 264259
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Europa Indexfond C Eur Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 104063
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "Stewart Inv Asia Pacific Leaders",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 147367
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "Fidelity Asian Special Situations",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 232578
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "Fidelity EMEA",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 116850
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Sverige Indexnära",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 154487
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Indexnära",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 68704
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Hållbar Europa Indexnära Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 39685
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Europa Indexnära C EUR Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 71878
- },
- {
-   "Statsråd": "Anna Hallberg",
-   "Roll": "Utrikeshandelsminister",
-   "Innehav": "SEB Euroland Free of Management Fee C (Sek)",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 33484
- },
- {
-   "Statsråd": "Peter Hultqvist",
-   "Roll": "Försvarsminister",
-   "Innehav": "Nordea Aktieallokering ",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 225515
- },
- {
-   "Statsråd": "Peter Hultqvist",
-   "Roll": "Försvarsminister",
-   "Innehav": "Nordea Hållbarhetsfond Försiktig",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 10194
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Robur, Ny Teknik",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 244121
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Robur Trans Energy",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 225054
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Robur Småbolags Sve",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 165773
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Robur Small Cap USA",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 161798
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Robur Microcap",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 100000
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Robur Technology",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 95062
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Robur Småbolagsfond Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 81021
- },
- {
-   "Statsråd": "Lena Hallengren",
-   "Roll": "Socialminister",
-   "Innehav": "Swedbank Global Em Mkts",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 52985
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Nordea Swedish Stars",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 80262
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Nordea Emerging Stars Equity Fund",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 57854
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Nordea European Stars Equity Fund",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 39724
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Nordea North American Stars Equity Fund",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 29868
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Avanza Auto 3",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 22491
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Avanza Europa",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 16006
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Avanza Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 15992
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Avanza Auto 6",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 11321
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Avanza Zero",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 10841
- },
- {
-   "Statsråd": "Ardalan Shekarabi",
-   "Roll": "Socialförsäkringsminister",
-   "Innehav": "Avanza Emerging Markets",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 4693
- },
- {
-   "Statsråd": "Magdalena Andersson",
-   "Roll": "Finansminister",
-   "Innehav": "",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": null
- },
- {
-   "Statsråd": "Åsa Lindhagen",
-   "Roll": "Finansmarknadsminister",
-   "Innehav": "AMF Aktiefond Sverige",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 222748
- },
- {
-   "Statsråd": "Åsa Lindhagen",
-   "Roll": "Finansmarknadsminister",
-   "Innehav": "Länsförsäkringar Sverige Aktiv A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 206876
- },
- {
-   "Statsråd": "Åsa Lindhagen",
-   "Roll": "Finansmarknadsminister",
-   "Innehav": "AMF Aktiefond Sverige",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 111456
- },
- {
-   "Statsråd": "Åsa Lindhagen",
-   "Roll": "Finansmarknadsminister",
-   "Innehav": "SPP Global Plus A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 104619
- },
- {
-   "Statsråd": "Åsa Lindhagen",
-   "Roll": "Finansmarknadsminister",
-   "Innehav": "LF Sverige Aktiv",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 27260
- },
- {
-   "Statsråd": "Lena Micko",
-   "Roll": "Civilminister",
-   "Innehav": "SEB Hållbar Sverige Indexnära",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 128867
- },
- {
-   "Statsråd": "Lena Micko",
-   "Roll": "Civilminister",
-   "Innehav": "JO Hambro Global Select",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 127171
- },
- {
-   "Statsråd": "Lena Micko",
-   "Roll": "Civilminister",
-   "Innehav": "SEB Europafond Småbolag",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 91912
- },
- {
-   "Statsråd": "Lena Micko",
-   "Roll": "Civilminister",
-   "Innehav": "SEB Dynamisk Aktiefond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 87092
- },
- {
-   "Statsråd": "Lena Micko",
-   "Roll": "Civilminister",
-   "Innehav": "SEB Emerging Market fond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 33545
- },
- {
-   "Statsråd": "Lena Micko",
-   "Roll": "Civilminister",
-   "Innehav": "SEB Sust High Yield SEK Lux",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 30689
- },
- {
-   "Statsråd": "Anna Ekström",
-   "Roll": "Utbildningsminister",
-   "Innehav": "Skandia Världen Sverige",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 56036
- },
- {
-   "Statsråd": "Matilda Ernkrans",
-   "Roll": "Minister för högre utbildning och forskning",
-   "Innehav": "Swedbank Robur Transfer 70",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 27861
- },
- {
-   "Statsråd": "Matilda Ernkrans",
-   "Roll": "Minister för högre utbildning och forskning",
-   "Innehav": "Swedbank Robur Transition Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 25403
- },
- {
-   "Statsråd": "Matilda Ernkrans",
-   "Roll": "Minister för högre utbildning och forskning",
-   "Innehav": "Swedbank Robur Småbolag Norden",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 11307
- },
- {
-   "Statsråd": "Matilda Ernkrans",
-   "Roll": "Minister för högre utbildning och forskning",
-   "Innehav": "Swedbank Robur Östeuropafond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 4602
- },
- {
-   "Statsråd": "Per Bolund",
-   "Roll": "Miljö- och klimatminister",
-   "Innehav": "Avanza Zero",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 503061
- },
- {
-   "Statsråd": "Per Bolund",
-   "Roll": "Miljö- och klimatminister",
-   "Innehav": "Robur Ethica Sverige",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 486037
- },
- {
-   "Statsråd": "Per Bolund",
-   "Roll": "Miljö- och klimatminister",
-   "Innehav": "SEB Hållbar Global",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 90327
- },
- {
-   "Statsråd": "Ibrahim Baylan",
-   "Roll": "Näringsminister",
-   "Innehav": "",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": null
- },
- {
-   "Statsråd": "Amanda Lind",
-   "Roll": "Kulturminister",
-   "Innehav": "",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": null
- },
- {
-   "Statsråd": "Eva Nordmark",
-   "Roll": "Arbetsmarknadsminister",
-   "Innehav": "TIN Ny Teknik A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 79816
- },
- {
-   "Statsråd": "Eva Nordmark",
-   "Roll": "Arbetsmarknadsminister",
-   "Innehav": "Consensus Småbolag A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 60828
- },
- {
-   "Statsråd": "Eva Nordmark",
-   "Roll": "Arbetsmarknadsminister",
-   "Innehav": "Avanza World Tech by TIN",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 57343
- },
- {
-   "Statsråd": "Eva Nordmark",
-   "Roll": "Arbetsmarknadsminister",
-   "Innehav": "Avanza Zero",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 20482
- },
- {
-   "Statsråd": "Eva Nordmark",
-   "Roll": "Arbetsmarknadsminister",
-   "Innehav": "AuAg Silver Bullet A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 9832
- },
- {
-   "Statsråd": "Märta Stenevi",
-   "Roll": "Bostadsminister",
-   "Innehav": "Nordea Emerging Stars Equity Fund  ",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 6439
- },
- {
-   "Statsråd": "Tomas Eneroth",
-   "Roll": "Infrastrukturminister",
-   "Innehav": "SHB Hållbar Energi",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 131160
- },
- {
-   "Statsråd": "Tomas Eneroth",
-   "Roll": "Infrastrukturminister",
-   "Innehav": "KPA Etisk Aktiefond",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 103563
- },
- {
-   "Statsråd": "Tomas Eneroth",
-   "Roll": "Infrastrukturminister",
-   "Innehav": "Transition Global A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 100000
- },
- {
-   "Statsråd": "Tomas Eneroth",
-   "Roll": "Infrastrukturminister",
-   "Innehav": "Global Impact A",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 100000
- },
- {
-   "Statsråd": "Tomas Eneroth",
-   "Roll": "Infrastrukturminister",
-   "Innehav": "Länsförsäkringar Global Hållbar",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 52999
- },
- {
-   "Statsråd": "Anders Ygeman",
-   "Roll": "Energiminister",
-   "Innehav": "KPA Etisk Blandfond 2",
-   "Åtgärd": "",
-   "Datum åtgärd": "",
-   "Värde": 463807
- }
+[{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB XACT BULL 2",
+		"Värde": "139500",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB Europa Småbolag A1 SEK",
+		"Värde": "433322",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB Hållbar Energi",
+		"Värde": "131533",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB Multi A 50 A1 SEK",
+		"Värde": "1849000",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB Nordiska Småbolag",
+		"Värde": "97904",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB Svenska Småbolag A1 SEK",
+		"Värde": "607758",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB Sverige Tema",
+		"Värde": "824622",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB USA Index",
+		"Värde": "1144639",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Hans Dahlgren",
+		"Innehav": "SHB Sve 100 Index Cri A1S",
+		"Värde": "326514",
+		"Roll": "EU-­minister"
+	},
+	{
+		"Statsråd": "Morgan Johansson",
+		"Innehav": "Swedbank Robur Fastighet",
+		"Värde": "540073",
+		"Roll": "Justitie- och inrikes­minister"
+	},
+	{
+		"Statsråd": "Morgan Johansson",
+		"Innehav": "Swedbank Robur Kinafond A",
+		"Värde": "221193",
+		"Roll": "Justitie- och inrikes­minister"
+	},
+	{
+		"Statsråd": "Morgan Johansson",
+		"Innehav": "Swedbank Robur Realräntefond",
+		"Värde": "108757",
+		"Roll": "Justitie- och inrikes­minister"
+	},
+	{
+		"Statsråd": "Morgan Johansson",
+		"Innehav": "Swedbank Robur Ränta Kort Plus",
+		"Värde": "101768",
+		"Roll": "Justitie- och inrikes­minister"
+	},
+	{
+		"Statsråd": "Morgan Johansson",
+		"Innehav": "Swedbank Robur Räntefond Kort",
+		"Värde": "105267",
+		"Roll": "Justitie- och inrikes­minister"
+	},
+	{
+		"Statsråd": "Morgan Johansson",
+		"Innehav": "Swedbank Robur Småbolag Global",
+		"Värde": "466324",
+		"Roll": "Justitie- och inrikes­minister"
+	},
+	{
+		"Statsråd": "Anders Ygeman",
+		"Innehav": "KPA Etisk Blandfond",
+		"Värde": "539311",
+		"Roll": "Integrations- och migrations­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Aktiesparfond",
+		"Värde": "271824",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Asset Selection C SEK Lux",
+		"Värde": "2796",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Dynamisk Aktiefond",
+		"Värde": "39824",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Företagsobligationsfond Hållbar A",
+		"Värde": "20992",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Hållbarhetsfond Global",
+		"Värde": "26858",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Korträntefond Sek Lux",
+		"Värde": "49264",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Nordenfond",
+		"Värde": "317559",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Östeuropafond",
+		"Värde": "3428",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Sustainable Europe Exp",
+		"Värde": "6569",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Sustainable Global Exp",
+		"Värde": "10682",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Hållbarhetsfond Sverige Lux",
+		"Värde": "90393",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Hållbar Europa Indexnära Lux",
+		"Värde": "98094",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Hållbarhetsfond Global",
+		"Värde": "114399",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Nordenfond",
+		"Värde": "205624",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB US All Cap Usd Lux",
+		"Värde": "721kr",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "SEB Östeuropafond",
+		"Värde": "13422",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Ann Linde",
+		"Innehav": "Goldman Sachs Emerging Market Equity",
+		"Värde": "23280",
+		"Roll": "Utrikes­minister"
+	},
+	{
+		"Statsråd": "Matilda Ernkrans",
+		"Innehav": "Swedbank Robur Transfer 70",
+		"Värde": "27861",
+		"Roll": "Bistånds­minister"
+	},
+	{
+		"Statsråd": "Matilda Ernkrans",
+		"Innehav": "Swedbank Robur Transition Global",
+		"Värde": "25403",
+		"Roll": "Bistånds­minister"
+	},
+	{
+		"Statsråd": "Matilda Ernkrans",
+		"Innehav": "Swedbank Robur Småbolag Norden",
+		"Värde": "11307",
+		"Roll": "Bistånds­minister"
+	},
+	{
+		"Statsråd": "Matilda Ernkrans",
+		"Innehav": "Swedbank Robur Östeuropafond",
+		"Värde": "4602",
+		"Roll": "Bistånds­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Euroland Free of Management Fee C (Sek)",
+		"Värde": "35241",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Europa Indexfond C Eur Lux",
+		"Värde": "108994",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Europafond Småbolag",
+		"Värde": "3709557",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Hållbar Sverige Indexnära",
+		"Värde": "3604028",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Sverigefond Småbolag",
+		"Värde": "3032633",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Usa Indexfond C Usd – Lux",
+		"Värde": "2657028",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Sverigefond",
+		"Värde": "840586",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Global Indexnära D Usd Lux",
+		"Värde": "237402",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Fidelity Asian Special Situations",
+		"Värde": "77752",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Hållbar Europa Indexnära Lux",
+		"Värde": "41342",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Sverige Indexnära",
+		"Värde": "84757",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Usa Indexnära Lux",
+		"Värde": "157939",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Fidelity EMEA",
+		"Värde": "81063",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Lannebo Småbolag",
+		"Värde": "375025",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Stewart Inv Asia Pacific Leaders",
+		"Värde": "102052",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SPP Aktiefond Europa",
+		"Värde": "1248042",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SPP Aktiefond Global",
+		"Värde": "2819178",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SPP Aktiefond Sverige",
+		"Värde": "779200",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SPP Aktiefond USA",
+		"Värde": "2357576",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Fidelity Asian Special Situations",
+		"Värde": "67302",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Europa Indexnära C EUR Lux",
+		"Värde": "35719",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Sverige Indexnära",
+		"Värde": "73369",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB USA Indexnära C USD Lux",
+		"Värde": "136881",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Fidelity Asian Special Situations",
+		"Värde": "73647",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Europa Indexnära C EUR Lux",
+		"Värde": "39147",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB Indexnära",
+		"Värde": "80282",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "SEB USA Indexnära C USD Lux",
+		"Värde": "149615",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Fidelity EMEA",
+		"Värde": "44195",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Lannebo Småbolag",
+		"Värde": "215588",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "Stewart Inv Asia Pacific Leaders",
+		"Värde": "60360",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Anna Hallberg",
+		"Innehav": "AP7 Aktiefond",
+		"Värde": "726134",
+		"Roll": "Utrikeshandels­minister"
+	},
+	{
+		"Statsråd": "Peter Hultqvist",
+		"Innehav": "Nordea Aktieallokering",
+		"Värde": "245506",
+		"Roll": "Försvars­minister"
+	},
+	{
+		"Statsråd": "Peter Hultqvist",
+		"Innehav": "Nordea Hållbarhetsfond Försiktig",
+		"Värde": "35675",
+		"Roll": "Försvars­minister"
+	},
+	{
+		"Statsråd": "Peter Hultqvist",
+		"Innehav": "Spiltan Aktiefond Investmentbolag",
+		"Värde": "542kr",
+		"Roll": "Försvars­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur Trans Energy",
+		"Värde": "228387",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur Småbolagsfond Global",
+		"Värde": "54052",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur Technology",
+		"Värde": "126992",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur Small Cap USA",
+		"Värde": "190755",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur, Ny Teknik",
+		"Värde": "243960",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur Microcap",
+		"Värde": "113384",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur Small Cap EMA",
+		"Värde": "56980",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Swedbank Robur Rysslandsfond",
+		"Värde": "82447",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Robeco SAM Sustainable Water Eqs D",
+		"Värde": "99008",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Lena Hallengren",
+		"Innehav": "Carnegie Indienfond A",
+		"Värde": "169711",
+		"Roll": "Social­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Brown Advisory US Smaller Companies Fund",
+		"Värde": "22992",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Handelsbanken Hållbar Energi",
+		"Värde": "23173",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "JPM Emerging Markets Opportunities Fund USA",
+		"Värde": "19127",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Lannebo Sverige Plus",
+		"Värde": "23160",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Länsförsäkringar Småbolag Sverige Vision A",
+		"Värde": "23754",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Nordea Asian Stars A",
+		"Värde": "18950",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Nordic Cross Bull",
+		"Värde": "24598",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Schroders ISF Global Climate Change Eq. USD",
+		"Värde": "24074",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Schroders ISF Indian Equity USD",
+		"Värde": "12295",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "SPP Global Solutions",
+		"Värde": "24128",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Ardalan Shekarabi",
+		"Innehav": "Swedbank Robur Asienfond",
+		"Värde": "19644",
+		"Roll": "Socialförsäkrings­minister"
+	},
+	{
+		"Statsråd": "Mikael Damberg",
+		"Innehav": "Swedbank Robur Kapitalinvest",
+		"Värde": "355434",
+		"Roll": "Finans­minister"
+	},
+	{
+		"Statsråd": "Max Elger",
+		"Innehav": "Nordea Obligationsfond korta placeringar",
+		"Värde": "1798",
+		"Roll": "Finansmarknads­minister"
+	},
+	{
+		"Statsråd": "Max Elger",
+		"Innehav": "Swedbank Robur Transition Glob",
+		"Värde": "39533",
+		"Roll": "Finansmarknads­minister"
+	},
+	{
+		"Statsråd": "Max Elger",
+		"Innehav": "Swedbank Robur Transition Swed",
+		"Värde": "36524",
+		"Roll": "Finansmarknads­minister"
+	},
+	{
+		"Statsråd": "Ida Karkiainen",
+		"Innehav": "Swedbank Robur Bas 50",
+		"Värde": "29560",
+		"Roll": "Civil­minister"
+	},
+	{
+		"Statsråd": "Ida Karkiainen",
+		"Innehav": "Swedbank Robur Bas 75",
+		"Värde": "23090",
+		"Roll": "Civil­minister"
+	},
+	{
+		"Statsråd": "Ida Karkiainen",
+		"Innehav": "Swedbank Robur Ny Teknik",
+		"Värde": "78948",
+		"Roll": "Civil­minister"
+	},
+	{
+		"Statsråd": "Anna Ekström",
+		"Innehav": "Skandia Världen Sverige",
+		"Värde": "69953",
+		"Roll": "Utbildnings­minister"
+	},
+	{
+		"Statsråd": "Lina Axelsson Kihlblom",
+		"Innehav": "Swedbank Robur Kapitalinvest",
+		"Värde": "117263",
+		"Roll": "Skol­minister"
+	},
+	{
+		"Statsråd": "Annika Strandhäll",
+		"Innehav": "",
+		"Värde": "",
+		"Roll": "Klimat- och miljö­minister"
+	},
+	{
+		"Statsråd": "Karl-Petter Thorwaldsson",
+		"Innehav": "Swedbank Robur Bas 100",
+		"Värde": "52927",
+		"Roll": "Närings­minister"
+	},
+	{
+		"Statsråd": "Anna-Caren Sätherberg",
+		"Innehav": "Swedbank Robur Globalfond",
+		"Värde": "319756",
+		"Roll": "Landsbygds­minister"
+	},
+	{
+		"Statsråd": "Anna-Caren Sätherberg",
+		"Innehav": "Swedbank Robur Transfer 60",
+		"Värde": "52087",
+		"Roll": "Landsbygds­minister"
+	},
+	{
+		"Statsråd": "Anna-Caren Sätherberg",
+		"Innehav": "AMF Räntefond Lång",
+		"Värde": "1003",
+		"Roll": "Landsbygds­minister"
+	},
+	{
+		"Statsråd": "Anna-Caren Sätherberg",
+		"Innehav": "Avanza Zero",
+		"Värde": "8241",
+		"Roll": "Landsbygds­minister"
+	},
+	{
+		"Statsråd": "Anna-Caren Sätherberg",
+		"Innehav": "SEB Sverige Indexnära A",
+		"Värde": "9402",
+		"Roll": "Landsbygds­minister"
+	},
+	{
+		"Statsråd": "Anna-Caren Sätherberg",
+		"Innehav": "Spiltan Aktiefond Investmentbolag",
+		"Värde": "11490",
+		"Roll": "Landsbygds­minister"
+	},
+	{
+		"Statsråd": "Anna-Caren Sätherberg",
+		"Innehav": "Spiltan Aktiefond Stabil",
+		"Värde": "9160",
+		"Roll": "Landsbygds­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Active 20 A",
+		"Värde": "9841",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Active 30 A",
+		"Värde": "202743",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Active 30 A",
+		"Värde": "21381",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "Jo Hambro Global Select Fund Eur",
+		"Värde": "66192",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Active 30 A",
+		"Värde": "202299",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Världenfond",
+		"Värde": "62292",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Emerging Marketfond",
+		"Värde": "6275",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Global Indexnära C Usd – Lux",
+		"Värde": "40074",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Sverige Expanderad",
+		"Värde": "8951",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "SEB Sverige Indexnära A",
+		"Värde": "3042",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Jeanette Gustafsdotter",
+		"Innehav": "Jp Morgan Global Focus A Eur Acc",
+		"Värde": "3057",
+		"Roll": "Kultur­minister"
+	},
+	{
+		"Statsråd": "Eva Nordmark",
+		"Innehav": "AuAg Silver Bullet A",
+		"Värde": "9257",
+		"Roll": "Arbetsmarknads- och jämställdhets­minister"
+	},
+	{
+		"Statsråd": "Eva Nordmark",
+		"Innehav": "Avanza World Tech by TIN",
+		"Värde": "67121",
+		"Roll": "Arbetsmarknads- och jämställdhets­minister"
+	},
+	{
+		"Statsråd": "Eva Nordmark",
+		"Innehav": "Avanza Zero",
+		"Värde": "24620",
+		"Roll": "Arbetsmarknads- och jämställdhets­minister"
+	},
+	{
+		"Statsråd": "Eva Nordmark",
+		"Innehav": "Consensus Småbolag A",
+		"Värde": "101699",
+		"Roll": "Arbetsmarknads- och jämställdhets­minister"
+	},
+	{
+		"Statsråd": "Eva Nordmark",
+		"Innehav": "TIN Ny Teknik A",
+		"Värde": "113402",
+		"Roll": "Arbetsmarknads- och jämställdhets­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Amerika tema",
+		"Värde": "53845",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Hållbar energi",
+		"Värde": "8668",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Latin A1 Sek",
+		"Värde": "22482",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Norden Index Criteria",
+		"Värde": "6999",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Pension 80 (A1 Sek)",
+		"Värde": "1104",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Sve Index Cri A1 SEK",
+		"Värde": "57991",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "USA Index Criteria A1 S",
+		"Värde": "27913",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Global tema",
+		"Värde": "4793",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Hållbar energi",
+		"Värde": "14408",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Sve Index Cri A1 SEK",
+		"Värde": "10367",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "USA Index Criteria A1 S",
+		"Värde": "20302",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Multi A 50 A1 SEK",
+		"Värde": "21033",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Sve Index Cri A1 SEK",
+		"Värde": "158503",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Svenska Småbolag A1 SEK",
+		"Värde": "341609",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Asien Tema A 1 SEK",
+		"Värde": "26357",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Kina A1 SEK",
+		"Värde": "38148",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Norden",
+		"Värde": "18531",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Johan Danielsson",
+		"Innehav": "Sve Index Cri A1 SEK",
+		"Värde": "48637",
+		"Roll": "Bostads­minister och biträdande arbetsmarknads­minister"
+	},
+	{
+		"Statsråd": "Tomas Eneroth",
+		"Innehav": "Global Impact A",
+		"Värde": "107990",
+		"Roll": "Infrastruktur­minister"
+	},
+	{
+		"Statsråd": "Tomas Eneroth",
+		"Innehav": "KPA Etisk Aktiefond",
+		"Värde": "128489",
+		"Roll": "Infrastruktur­minister"
+	},
+	{
+		"Statsråd": "Tomas Eneroth",
+		"Innehav": "Transition Global A",
+		"Värde": "124850",
+		"Roll": "Infrastruktur­minister"
+	},
+	{
+		"Statsråd": "Tomas Eneroth",
+		"Innehav": "SHB Hållbar Energi",
+		"Värde": "130665",
+		"Roll": "Infrastruktur­minister"
+	},
+	{
+		"Statsråd": "Tomas Eneroth",
+		"Innehav": "DNB Fund Renewable Energy",
+		"Värde": "26426",
+		"Roll": "Infrastruktur­minister"
+	},
+	{
+		"Statsråd": "Tomas Eneroth",
+		"Innehav": "KPA Etisk Aktiefond",
+		"Värde": "80219",
+		"Roll": "Infrastruktur­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Emerging Marketsfond",
+		"Värde": "18096",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Läkemedelsfond",
+		"Värde": "44884",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Nordamerika Små och Medelstora Bolag",
+		"Värde": "37916",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Sverige Expanderad A",
+		"Värde": "19572",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "Amf Aktiefond Asien Stilla Havet",
+		"Värde": "195893",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Active 80 A",
+		"Värde": "246380",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Sverige Indexnära A",
+		"Värde": "396989",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Sverigefond Småbolag",
+		"Värde": "85670",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Europa Indexnära C Eur Lux",
+		"Värde": "188356",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Global Indexnära C Usd Lux",
+		"Värde": "199930",
+		"Roll": "Energi- och digitaliserings­minister"
+	},
+	{
+		"Statsråd": "Khashayar Farmanbar",
+		"Innehav": "SEB Usa Indexnära C Usd Lux",
+		"Värde": "210403",
+		"Roll": "Energi- och digitaliserings­minister"
+	}
 ]
