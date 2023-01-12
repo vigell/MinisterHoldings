@@ -1,0 +1,1689 @@
+[
+ {
+   "Statsråd": "Ulf Kristersson",
+   "Roll": "Statsminister",
+   "Innehav": "SEB Sverigefond",
+   "Värde": 862624,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Jessika Roswall",
+   "Roll": "EU-minister",
+   "Innehav": "Handelsbanken Multi A 50 A1",
+   "Värde": 12693,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Jessika Roswall",
+   "Roll": "EU-minister",
+   "Innehav": "Handelsbanken Multi A60 A1 SEK",
+   "Värde": 242977,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Jessika Roswall",
+   "Roll": "EU-minister",
+   "Innehav": "Handelsbanken Multi Asset 100",
+   "Värde": 161359,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Jessika Roswall",
+   "Roll": "EU-minister",
+   "Innehav": "Handelsbanken Pension 70 Akt A1 SEK",
+   "Värde": 321457,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Gunnar Strömmer",
+   "Roll": "Justitieminister",
+   "Innehav": "Handelsbanken Asien Tema A1 SEK",
+   "Värde": 3451,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Gunnar Strömmer",
+   "Roll": "Justitieminister",
+   "Innehav": "Handelsbanken Global Index Criteria",
+   "Värde": 41456,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Gunnar Strömmer",
+   "Roll": "Justitieminister",
+   "Innehav": "Handelsbanken Hållbar Energi",
+   "Värde": 27106,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Gunnar Strömmer",
+   "Roll": "Justitieminister",
+   "Innehav": "Handelsbanken Hälsovård Tema",
+   "Värde": 47507,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Gunnar Strömmer",
+   "Roll": "Justitieminister",
+   "Innehav": "Handelsbanken USA Ind Cri A1 SEK",
+   "Värde": 10913,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Gunnar Strömmer",
+   "Roll": "Justitieminister",
+   "Innehav": "SHB Pension 70",
+   "Värde": 113102,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Spiltan Aktiefond Stabil",
+   "Värde": 100811,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Bonesupport Holding**",
+   "Värde": 31333,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Camurus**",
+   "Värde": 26224,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Genovis**",
+   "Värde": 79365,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Hansa Biopharma",
+   "Värde": 60055,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Hansa Biopharma**",
+   "Värde": 48284,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Investor A",
+   "Värde": 61706,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Investor A**",
+   "Värde": 2800,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Proact IT Group",
+   "Värde": 9781,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Sectra B",
+   "Värde": 5156,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Maria Malmer Stenergard",
+   "Roll": "Migrationsminister",
+   "Innehav": "Spectra B**",
+   "Värde": 30362,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "Avanza Zero",
+   "Värde": 476974,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "Fidelity Asian Special Situations",
+   "Värde": 54898,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "HSBC Indian Equity AC",
+   "Värde": 409,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "JPM Global Natural Resources A EUR",
+   "Värde": 154914,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Corporate Bond SEK - Lux",
+   "Värde": 15,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Emerging Marketsfond",
+   "Värde": 41438,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Europa Indexnära C EUR - Lux",
+   "Värde": 30782,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Indexnära A",
+   "Värde": 97376,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Nordamerika Små/Medelst Bolag",
+   "Värde": 72605,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Pensionsfond Plus SEK - Lux",
+   "Värde": 822,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Pensionsfond SEK - Lux",
+   "Värde": 25619,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB Sverigefond Småbolag A",
+   "Värde": 149242,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEB USA Indexnära USD - Lux",
+   "Värde": 80956,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Tobias Billström",
+   "Roll": "Utrikesminister",
+   "Innehav": "SEK Likviditetsfond SEK",
+   "Värde": 15,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "AVA Småbolag Tracker",
+   "Värde": 303625,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "BGF Next Generation Technology A2",
+   "Värde": 100000,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Carnegie Asia A",
+   "Värde": 152633,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Carnegie Fastighetsfond Norden A",
+   "Värde": 368594,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Enter Småbolagsfond A",
+   "Värde": 386850,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "HB Astrazeneca Allemansfond",
+   "Värde": 470436,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "iShares MSCI China UCITS ETF USD",
+   "Värde": 368150,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "JP Morgan US Technology",
+   "Värde": 250000,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Lannebo Fastighetsfond",
+   "Värde": 161047,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Lyxor Hong Kong (HIS) UCITS ETF ",
+   "Värde": 326577,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "SEB Nordamerika Små och Medelstora",
+   "Värde": 305930,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "SEBC2901K",
+   "Värde": 74460,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Storebrand Emerging Markets A SEK",
+   "Värde": 75000,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Tin Ny Teknik A",
+   "Värde": 100000,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Xtrackers Nikkei 225 UCITS ETF 1D",
+   "Värde": 319679,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Alibaba Group ADR",
+   "Värde": 73512,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Alphabet A",
+   "Värde": 151152,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Apple",
+   "Värde": 156055,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Fortum Corporation",
+   "Värde": 53822,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Kraft Heinz",
+   "Värde": 127414,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Meta Platforms A",
+   "Värde": 125218,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Netflix",
+   "Värde": 152856,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Nibe Industrier",
+   "Värde": 316643,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Snowflake A",
+   "Värde": 172162,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Spotify",
+   "Värde": 79342,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Tui AG",
+   "Värde": 66380,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Forssell",
+   "Roll": "Bistånds- och utrikeshandelsminister",
+   "Innehav": "Walt Disney",
+   "Värde": 167274,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Pål Jonson",
+   "Roll": "Försvarsminister",
+   "Innehav": "",
+   "Värde": null,
+   "Typ": "Inget innehav"
+ },
+ {
+   "Statsråd": "Carl-Oskar Bohlin",
+   "Roll": "Minister för civilt försvar",
+   "Innehav": "",
+   "Värde": null,
+   "Typ": "Inget innehav"
+ },
+ {
+   "Statsråd": "Jakob Forssmed",
+   "Roll": "Socialminister",
+   "Innehav": "Avanza World Tech by TIN",
+   "Värde": 47404,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Jakob Forssmed",
+   "Roll": "Socialminister",
+   "Innehav": "Spiltan Aktiefond Investmentbolag",
+   "Värde": 197641,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Jakob Forssmed",
+   "Roll": "Socialminister",
+   "Innehav": "BiBBinstruments",
+   "Värde": 130050,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Jakob Forssmed",
+   "Roll": "Socialminister",
+   "Innehav": "BioInvent International",
+   "Värde": 18158,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Jakob Forssmed",
+   "Roll": "Socialminister",
+   "Innehav": "InDex Pharmaceuticals Holding",
+   "Värde": 94000,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Jakob Forssmed",
+   "Roll": "Socialminister",
+   "Innehav": "Oncopeptides",
+   "Värde": 3699,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "DIL Eur SmCap SEK",
+   "Värde": 26176,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "Dis Gib Index SA",
+   "Värde": 586610,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "Dis Sverige Beta SA",
+   "Värde": 144822,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "Etisk Index Sverige",
+   "Värde": 29976,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "Lannebo Småbolag",
+   "Värde": 325305,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "Nordea Små Norden",
+   "Värde": 101107,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "Nordea Sverige PSV",
+   "Värde": 16641,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Acko Ankarberg Johansson",
+   "Roll": "Sjukvårdsminister",
+   "Innehav": "SEB Världenfond",
+   "Värde": 44335,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Camilla Waltersson Grönvall",
+   "Roll": "Socialtjänstminister",
+   "Innehav": "Swedbank Robur Ny Teknik",
+   "Värde": 11000,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Camilla Waltersson Grönvall",
+   "Roll": "Socialtjänstminister",
+   "Innehav": "Swedbank Robur Technology",
+   "Värde": 10315,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "SEB Aktiesparfond",
+   "Värde": 52167,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "SEB Global Aktiefond",
+   "Värde": 17862,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "SEB Läkemedelsfond",
+   "Värde": 34509,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "SEB Swedish Value A",
+   "Värde": 35029,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "SEB Världenfond",
+   "Värde": 90767,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "SEB Östeuropafond",
+   "Värde": 6406,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "Billerud",
+   "Värde": 13372,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Anna Tenje",
+   "Roll": "Äldre- och socialförsäkringsminister",
+   "Innehav": "Ericsson B",
+   "Värde": 26708,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Elisabeth Svantesson",
+   "Roll": "Finansminister",
+   "Innehav": "Handelsbanken Multi A 50 A1 SEK",
+   "Värde": 10628,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Elisabeth Svantesson",
+   "Roll": "Finansminister",
+   "Innehav": "Handelsbanken Pension 60 Akt A1 SEK",
+   "Värde": 53850,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Elisabeth Svantesson",
+   "Roll": "Finansminister",
+   "Innehav": "Handelsbanken Pension 70 Akt A1 SEK",
+   "Värde": 416208,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Niklas Wykman",
+   "Roll": "Finansmarknadsminister",
+   "Innehav": "Nordea Global Passiv",
+   "Värde": 254915,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Niklas Wykman",
+   "Roll": "Finansmarknadsminister",
+   "Innehav": "Nordea Sverige Passiv",
+   "Värde": 232651,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Handelsbanken Asien Tema A1 SEK",
+   "Värde": 75661,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Handelsbanken Global Index Criteria",
+   "Värde": 72157,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Handelsbanken Hållbar Energi",
+   "Värde": 133741,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Handelsbanken Pension 80 Akt A1",
+   "Värde": 172215,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Handelsbanken Sverige Tema",
+   "Värde": 72442,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Astra Zeneca",
+   "Värde": 232760,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Chordate Medical Holding",
+   "Värde": 219974,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Eolus Vind B",
+   "Värde": 58437,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Erik Slottner",
+   "Roll": "Civilminister",
+   "Innehav": "Swedbank A",
+   "Värde": 172755,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Carnegie Indienfond A",
+   "Värde": 160062,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Handelsbanken Global Index Criteria",
+   "Värde": 378264,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Handelsbanken Latinamerika Impact",
+   "Värde": 107440,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Handelsbanken Sverige Index Criteria",
+   "Värde": 293613,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Spiltan Aktiefond Investmentbolag",
+   "Värde": 11072,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Ericsson B",
+   "Värde": 36042,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Getinge B",
+   "Värde": 12336,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Handelsbanken B",
+   "Värde": 23918,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Nibe Industrier",
+   "Värde": 36297,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Skanska B",
+   "Värde": 38140,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Mats Persson",
+   "Roll": "Utbildningsminister",
+   "Innehav": "Volvo B",
+   "Värde": 28386,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Enter Select C",
+   "Värde": 44026,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Ishares Japan Equity Index D2 USD",
+   "Värde": 2412,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Jo Hambro Global Select Fund Eur",
+   "Värde": 250,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "JPM Emerging Markets Small Cap C USD",
+   "Värde": 8027,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Liontrust Gf Sust Fut Pan Eur Gr",
+   "Värde": 104,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Morgan Stanley Global Opp I USD",
+   "Värde": 6417,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Morgan Stanley Invf Glob Opp Ausd",
+   "Värde": 291,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Neuberger Berman Emd Loc Curr Usd",
+   "Värde": 489,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Ninety One Gsf Asian Eq IX Accusd",
+   "Värde": 3763,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Nordea Stratega 30",
+   "Värde": 539347,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Nordea Stratega 50",
+   "Värde": 446271,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Nordea Stratega Ränta",
+   "Värde": 169810,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Aktiesparfond",
+   "Värde": 22188,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Dynamisk Räntefond C Sek - Lux",
+   "Värde": 20318,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Dynamisk Räntefond Sek - Lux",
+   "Värde": 1107,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Emerging Marketsfond",
+   "Värde": 97,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Emerging Marketsfond Uc - Lux",
+   "Värde": 1855,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Equity C Eur",
+   "Värde": 29394,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Europe Equity Fund C Eur",
+   "Värde": 117,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Företagsobligationsfond A",
+   "Värde": 460,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Global Aktiefond A",
+   "Värde": 660,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Global Aktiefond C",
+   "Värde": 24850,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Global Climate Opportunity Uc",
+   "Värde": 6176,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Global High Yield C Sek - Lux",
+   "Värde": 21237,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Global High Yield Sek - Lux",
+   "Värde": 582,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Global Indexnära Zc Usd - Lux",
+   "Värde": 16934,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Globalfond - Lux",
+   "Värde": 655,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Globalfond Uc - Lux",
+   "Värde": 8584,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Green Bond Fund Sek - Lux",
+   "Värde": 324,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Nordamerika Små/Medelstora Bolag",
+   "Värde": 156,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Obligationsfond Flexibel Sek",
+   "Värde": 1847,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Obligationsfond Sek",
+   "Värde": 1592,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Sverigefond",
+   "Värde": 49649,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Sverigefond Småbolag D SEK",
+   "Värde": 22869,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB Sweden Equity Uc SEK",
+   "Värde": 54952,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SEB US Focus Core Fund Uc SEK",
+   "Värde": 16727,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "T. Rowe Price Global Value Eq Q10",
+   "Värde": 16390,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "T. Rowe Price US Large-Cap Grow Q",
+   "Värde": 8029,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Atlas Copco A",
+   "Värde": 213246,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Atlas Copco B",
+   "Värde": 63736,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Epiroc B",
+   "Värde": 23108,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Essity A",
+   "Värde": 36740,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Handelsbanken A",
+   "Värde": 84252,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "Industrivärden A",
+   "Värde": 2848,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Lotta Edholm",
+   "Roll": "Skolminister",
+   "Innehav": "SKF A",
+   "Värde": 28123,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Romina Pourmokhtari",
+   "Roll": "Klimat- och miljöminister",
+   "Innehav": "",
+   "Värde": null,
+   "Typ": "Inget innehav"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Aktiespararna Direktavkastning A",
+   "Värde": 13338,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Avanza Emerging Markets",
+   "Värde": 9744,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Avanza Europa",
+   "Värde": 5228,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Avanza USA",
+   "Värde": 6010,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "DNB Europa Index A",
+   "Värde": 5369,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Länsförsäkringar Tillväxtmarknad Index A",
+   "Värde": 11001,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Skandia Global Exponering A",
+   "Värde": 13451,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Spiltan Aktiefond Investmentbolag",
+   "Värde": 12548,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Storebrand USA A SEK",
+   "Värde": 5753,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Ebba Busch",
+   "Roll": "Energi- och näringsminister",
+   "Innehav": "Swedbank Robur Access Global A",
+   "Värde": 16669,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Parisa Liljestrand",
+   "Roll": "Kulturminister",
+   "Innehav": "Ericsson B",
+   "Värde": 12232,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Blackrock India**",
+   "Värde": 376,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "DI SICAV Global Index**",
+   "Värde": 254209,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Didner & Gerge Small & Microcap",
+   "Värde": 15237,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Didner & Gerge Småbolag",
+   "Värde": 24625,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Handelsbanken Asien Tema A1 SEK",
+   "Värde": 25517,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Lannebo Mix Offensiv**",
+   "Värde": 891,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordea Global Passiv",
+   "Värde": 49364,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordea Indexfond Europa ESG",
+   "Värde": 3412,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordea Indexfond Global ESG",
+   "Värde": 13692,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordea Indexfond Sverige ESG",
+   "Värde": 12031,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordea Sverige Passiv utd",
+   "Värde": 24571,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordnet Indexfond Sverige ESG",
+   "Värde": 452,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordnet Indexfond USA ESG",
+   "Värde": 5731,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Skandia Global Exponering**",
+   "Värde": 356549,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Skandia Norden**",
+   "Värde": 155120,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Skandia Sverige Exponering**",
+   "Värde": 154772,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Öhman Etisk Index Sverige**",
+   "Värde": 65429,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Öhman Marknad Europa**",
+   "Värde": 65656,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "ABB",
+   "Värde": 30650,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Accelleron N",
+   "Värde": 951,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Alfa Laval",
+   "Värde": 13310,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Astra Zeneca",
+   "Värde": 12635,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Axfood",
+   "Värde": 21584,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Epiroc B",
+   "Värde": 44850,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Ericsson B",
+   "Värde": 8434,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Industrivärden C",
+   "Värde": 24650,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Investor B",
+   "Värde": 28755,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Kjell Group",
+   "Värde": 1798,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Nordea",
+   "Värde": 21166,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Sandvik",
+   "Värde": 1224,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "SBB",
+   "Värde": 9108,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "SKF B",
+   "Värde": 7913,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Skistar B",
+   "Värde": 42720,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Snap A",
+   "Värde": 1569,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Storskogen B",
+   "Värde": 7826,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Train Alliance Sweden B",
+   "Värde": 1164,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Trelleborg B",
+   "Värde": 11800,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Volati",
+   "Värde": 20620,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Johan Pehrson",
+   "Roll": "Arbetsmarknads- och integrationsminister",
+   "Innehav": "Volvo B",
+   "Värde": 8766,
+   "Typ": "Aktie"
+ },
+ {
+   "Statsråd": "Paulina Brandberg",
+   "Roll": "Jämställdhetsminister",
+   "Innehav": "",
+   "Värde": null,
+   "Typ": "Inget innehav"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Goldman Sachs Emerging Market Equity",
+   "Värde": 11461,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Handelsbanken Globalfond",
+   "Värde": 74061,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Handelsbanken Sverige Selektiv",
+   "Värde": 65557,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Handelsbanken Tillväxtmarknadsfond",
+   "Värde": 34037,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Nordea Avtalspension Midi",
+   "Värde": 4215,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Nordea Emerging Stars Equity Fund",
+   "Värde": 27485,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Nordea European Enhanced Equity",
+   "Värde": 35727,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Nordea Global Enhanced",
+   "Värde": 77227,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Nordea North American Enhanced",
+   "Värde": 49276,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Nordea Stratega Ränta",
+   "Värde": 28244,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "Nordea Swedish Stars",
+   "Värde": 23752,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "SEB ITP Entré Pension 2046",
+   "Värde": 306771,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Peter Kullgren",
+   "Roll": "Landsbygdsminister",
+   "Innehav": "SEB Världenfond",
+   "Värde": 113496,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "DNB Global Index",
+   "Värde": 5222,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Handelsbanken Hållbar Energi A1",
+   "Värde": 3977,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "LF Global Indexnära ",
+   "Värde": 3979,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "LF Tillväxtmarknad Indexnära A",
+   "Värde": 1435,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Länsförsäkringar Global Indexnära",
+   "Värde": 200630,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Länsförsäkringar tillväxtmarknad idx",
+   "Värde": 11517,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Mirae Asset Sst India Sect Ldr Eq",
+   "Värde": 4803,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "ODIN Small Cap C SEK",
+   "Värde": 40494,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "SEB Nordamerikafond Småbolag",
+   "Värde": 3068,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Spiltan Aktiefond Investmentbolag",
+   "Värde": 198386,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Spiltan Aktiefond Småland",
+   "Värde": 27130,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Storebrand Global All Countries A",
+   "Värde": 18096,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Swedbank Robur Access Asien A",
+   "Värde": 2520,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Swedbank Robur Ny Teknik A",
+   "Värde": 48875,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "TIN Ny Teknik A",
+   "Värde": 86638,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "Öhman Marknad Pacific",
+   "Värde": 4533,
+   "Typ": "Fond"
+ },
+ {
+   "Statsråd": "Andreas Carlson",
+   "Roll": "Infrastruktur- och bostadsminister",
+   "Innehav": "AIK Fotboll AB",
+   "Värde": 196,
+   "Typ": "Aktie"
+ }
+]
